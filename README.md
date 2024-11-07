@@ -23,8 +23,8 @@
 
 <p>Pagina Inicial:</p>
 
-![Imagem Pagina Inicial](clima-alerta/images/pagina-inicial.png) 
+![Imagem Pagina Inicial](clima_alerta/images/pagina-inicial.png) 
 
 <p>Pagina de Pesquisa:</p>
 
-![Imagem Pagina de Pesquisa](clima-alerta/images/pagina-clima.png)
+![Imagem Pagina de Pesquisa](clima_alerta/images/pagina-clima.png)
